@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d755
+type d -exec chmod 755
