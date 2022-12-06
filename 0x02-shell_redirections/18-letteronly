@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i '^b' list
+grep '^b' list
