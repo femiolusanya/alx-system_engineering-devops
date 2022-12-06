@@ -1,2 +1,2 @@
 #!/bin/bang
-#rm -f *.js
+#rm -f */0x02-shellredirections.js
