@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^b' list
+grep -i '^b' /etc/ssh/sshd_config
