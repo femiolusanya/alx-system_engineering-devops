@@ -1,2 +1,2 @@
 #!/bin/bang
-#rm -f */*/*.js
+#find . -name -file "*.js" -delete
